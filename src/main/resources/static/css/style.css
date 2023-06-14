@@ -1,0 +1,14 @@
+.m5{
+    margin: 5px;
+}
+
+.block-information{
+    text-align: center;
+    border-radius: 0.5em;
+    background-color: darkgray;
+}
+
+.w-50{
+    width: 50%;
+    margin: 25% 0 25% 0
+}
